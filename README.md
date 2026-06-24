@@ -130,7 +130,7 @@ Education:  M.Sc. Computer Engineering @ METU (ML / Deep Learning, LSTM thesis)
 ## Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hkocamandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hkocamandev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkocamandev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
