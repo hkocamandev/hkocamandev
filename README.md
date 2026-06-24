@@ -135,9 +135,9 @@ Education:  M.Sc. Computer Engineering @ METU (ML / Deep Learning, LSTM thesis)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkocamandev&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hkocamandev&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hkocamandev/hkocamandev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hkocamandev/hkocamandev/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/hkocamandev/hkocamandev/output/github-snake.svg" />
+  </picture>
+  </p>
