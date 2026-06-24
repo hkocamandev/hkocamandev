@@ -13,9 +13,9 @@
 Senior software engineer with 8+ years in Java backend, distributed systems, and security platforms — currently moving into AI/LLM engineering. Most of my recent work sits at the intersection of the two: event-driven services, vector search, and ML inference wired into real backends rather than notebooks.
 
 ```yaml
-location:   İzmir, Türkiye
-focus:      Java / Spring backend  +  AI engineering (RAG, agents, evals)
-education:  M.Sc. Computer Engineering @ METU (ML / Deep Learning, LSTM thesis)
+Location:   İzmir, Türkiye
+Focus:      Java / Spring backend  +  AI engineering (RAG, agents, evals)
+Education:  M.Sc. Computer Engineering @ METU (ML / Deep Learning, LSTM thesis)
             B.Sc. Computer Engineering @ Turkish Air Force Academy (ranked 1st)
 ```
 
@@ -29,6 +29,7 @@ education:  M.Sc. Computer Engineering @ METU (ML / Deep Learning, LSTM thesis)
 ## Tech Stack
 
 **AI / ML**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge&logo=xgboost&logoColor=white)
@@ -41,6 +42,7 @@ education:  M.Sc. Computer Engineering @ METU (ML / Deep Learning, LSTM thesis)
 <sub>RAG · vector embeddings · semantic search · Sentence-BERT · local inference (all-MiniLM-L6-v2) · LSTM</sub>
 
 **Languages**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -50,6 +52,7 @@ education:  M.Sc. Computer Engineering @ METU (ML / Deep Learning, LSTM thesis)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Backend & Frameworks**
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -60,6 +63,7 @@ education:  M.Sc. Computer Engineering @ METU (ML / Deep Learning, LSTM thesis)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 **Frontend**
+
 ![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -67,6 +71,7 @@ education:  M.Sc. Computer Engineering @ METU (ML / Deep Learning, LSTM thesis)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Databases & Storage**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -76,12 +81,14 @@ education:  M.Sc. Computer Engineering @ METU (ML / Deep Learning, LSTM thesis)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Messaging & Distributed Systems**
+
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Yjs](https://img.shields.io/badge/Yjs_(CRDT)-7B68EE?style=for-the-badge&logoColor=white)
 
 **Cloud, DevOps & Observability**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -92,6 +99,7 @@ education:  M.Sc. Computer Engineering @ METU (ML / Deep Learning, LSTM thesis)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 **Security & Identity**
+
 ![SAML](https://img.shields.io/badge/SAML_2.0-326CE5?style=for-the-badge&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -99,6 +107,7 @@ education:  M.Sc. Computer Engineering @ METU (ML / Deep Learning, LSTM thesis)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 **Testing**
+
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-291A38?style=for-the-badge&logo=testcontainers&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
